@@ -30,4 +30,9 @@ int main()
     cin >> type;
   }
   d.draw();
+
+//  Point p1 = Point(2, 3);
+//  Point p2 = Point(5, 1);
+//  std::cout << getDistance(p1, p2);
+
 }
