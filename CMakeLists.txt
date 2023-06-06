@@ -11,4 +11,4 @@ add_executable(hw3p2
         Point.h
         Shape.h
         testPoint.cpp
-        testShape.cpp Domain.cpp Point.cpp Shape.cpp)
+        testShape.cpp Domain.cpp Point.cpp Shape.cpp "utils/utils.h")

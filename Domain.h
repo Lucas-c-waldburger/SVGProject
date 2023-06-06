@@ -4,8 +4,10 @@
 #ifndef DOMAIN_H
 #define DOMAIN_H
 #include "Shape.h"
+#include "utils/utils.h"
 #include<iostream>
 #include<vector>
+
 
 class Domain
 {
